@@ -1,0 +1,5 @@
+CLR(1) parser.cpp
+LL(1) parser.cpp
+LR(1) parser.cpp
+oprator precedence parser.cpp
+shift reduce parser.cpp
